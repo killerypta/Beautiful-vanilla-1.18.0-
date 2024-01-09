@@ -1,0 +1,22 @@
+{
+	"format_version": 1,
+	"header": {
+		"description": "В этом текстур-паке я постарался собрать наилучшие текстуры для улучшения ванильной игры",
+		"name": "Beautiful vanilla",
+		"uuid": "c750db18-eea1-41dc-9cf5-00a756bb2c1d",
+		"version": [0, 0, 2],
+		"min_engine_version": [1, 18, 0]
+	},
+	"modules": [
+		{
+			"description": "В этом текстур-паке я постарался собрать наилучшие текстуры для улучшения ванильной игры",
+			"type": "resources",
+			"uuid": "a31ea0f6-09ec-4481-ba18-70ba6cc6012d",
+			"version": [0, 0, 2]
+		}
+	],
+	"metadata": {
+		"authors": ["killerypta"],
+		"url": "https://github.com/killerypta/Beautiful-vanilla-1.18.0-?tab=readme-ov-file#beautiful-vanilla-1180"
+	}
+}
